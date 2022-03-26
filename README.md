@@ -10,5 +10,3 @@ I'm Abhishek Kathuria, Applied Data Science Masters student at University of Vic
 - 📫 Contact for queries : abhishekkathuria40@gmail.com
   
  To know more about me, please visit https://abhishekkathuria.wixsite.com/home
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishek-924)

@@ -18,4 +18,4 @@ I'm currently pursuing Masters in Applied Data Science at University of Victoria
 - ⚡ Fun fact: I love to write technical blogs and travel
 - 📫 Contact for queries : abhishekkathuria40@gmail.com
   
- To know more about me, please visit https://abhishekkathuria.wixsite.com/home
+ To know more about me, please visit https://sites.google.com/view/abhishek-kathuria/home

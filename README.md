@@ -18,14 +18,14 @@ I'm a Data Science Graduate Student from Canada. Here's some info about me!
 - **Data Science Analyst (Full-Time) at EY** - MS Word Plugin for survey creation using Python and Data Mining. [India. 9 months]
 - **Data Analyst (Full-Time) at Nandini** - Intelligent PowerBI Dashboards for 6+ clients. [India. 4 months]
 - **NLP Summer Research Intern at IIT-Kharagpur** - NLP E-Commerce Question Answer System using BERT.  [India. 4 months]
+<br>
 
+🌱 Interests:
+- Write technical blogs (Medium).
+- Travel.
 
-**Talking about Personal Stuff:**
-
-💬 Reach me by email or LinkedIn! abhishekkathuria40@gmail.com | www.linkedin.com/in/abhishek924
-- ⚡ Fun fact: I love to write technical blogs and travel
+💬 Reach me by email or LinkedIn! abhishekkathuria40@gmail.com | www.linkedin.com/in/abhishek924 <br>
 📫 Visit my website: https://sites.google.com/view/abhishek-kathuria/home
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/abhishek924/">Linkedin</a>
-- ⚡ Fun fact: I love to write technical blogs and travel
+
 

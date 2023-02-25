@@ -8,14 +8,24 @@
 </p>
 
 
-I'm a Masters Graduate Student in Applied Data Science at University of Victoria, British Columbia and I am currently working as a Data Science Co-Op Intern at <a href="http://loblawdigital.co">Loblaw Digital</a>. I have worked previously at <a href="https://www.ey.com/en_gl">EY</a> as a Data Science Analyst. I'm a former Data science intern at <a href="https://www.nokia.com/">NOKIA</a>, and an NLP research intern at the <a href="http://cse.iitkgp.ac.in/"> Indian Institute of Technology KGP </a>.
+I'm a Data Science Graduate Student from Canada. Here's some info about me!
+
+⚡ Education: <br>
+- **Master of Engineering in Applied Data Science at University of Victoria** - ML and Natural Language based Product Recommendation Models. [British Columbia, Canada. Sept 21-May 23]
+
+⚡ Work experience: <br>
+- **Data Scientist Co-op intern at Loblaw Digital** - ML and Natural Language based Product Recommendation Models. [Toronto. 8 months]
+- **Data Science Analyst (Full-Time) at EY** - MS Word Plugin for survey creation using Python and Data Mining. [India. 9 months]
+- **Data Analyst (Full-Time) at Nandini** - Intelligent PowerBI Dashboards for 6+ clients. [India. 4 months]
+- **NLP Summer Research Intern at IIT-Kharagpur** - NLP E-Commerce Question Answer System using BERT.  [India. 4 months]
 
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently working on Natural Language Processing and Machine Learning projects where I build Recommendation Systems and Data Piplelines.
+💬 Reach me by email or LinkedIn! abhishekkathuria40@gmail.com | www.linkedin.com/in/abhishek924
+- ⚡ Fun fact: I love to write technical blogs and travel
+📫 Visit my website: https://sites.google.com/view/abhishek-kathuria/home
+
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abhishek924/">Linkedin</a>
 - ⚡ Fun fact: I love to write technical blogs and travel
-- 📫 Contact for queries : abhishekkathuria40@gmail.com
-  
- To know more about me, please visit https://sites.google.com/view/abhishek-kathuria/home
+

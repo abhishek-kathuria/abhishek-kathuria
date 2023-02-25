@@ -11,7 +11,7 @@
 I'm a Data Science Graduate Student from Canada. Here's some info about me!
 
 ⚡ Education: <br>
-- **Master of Engineering in Applied Data Science at University of Victoria** - ML and Natural Language based Product Recommendation Models. [British Columbia, Canada. Sept 21-May 23]
+- **Master of Engineering in Applied Data Science at University of Victoria** - Optimization for ML, Deep Learning, Data Analysis, Big Data [British Columbia, Canada. Sept 21-May 23]
 
 ⚡ Work experience: <br>
 - **Data Scientist Co-op intern at Loblaw Digital** - ML and Natural Language based Product Recommendation Models. [Toronto. 8 months]

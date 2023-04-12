@@ -14,7 +14,7 @@ I'm a Data Science Graduate Student from Canada. Here's some info about me!
 - **Master of Engineering in Applied Data Science at University of Victoria** - [British Columbia, Canada. Sept 21-May 23]
 
 ⚡ Work experience: <br>
-- **Data Scientist Co-op intern at Loblaw Digital** - ML and Natural Language based Product Recommendation Models. [Toronto. 8 months]
+- **Machine Learning Engineer Co-op intern at Loblaw Digital** - ML and Natural Language based Product Recommendation Models. [Toronto. 8 months]
 - **Data Scientist (Full-Time) at EY** - MS Word Plugin for survey creation using Python and Data Mining. [India. 9 months]
 - **Data Analyst (Full-Time) at Nandini** - Intelligent PowerBI Dashboards for 6+ clients. [India. 7  months]
 - **NLP Summer Research Intern at IIT-Kharagpur** - NLP E-Commerce Question Answer System using BERT.  [India. 4 months]

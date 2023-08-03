@@ -15,8 +15,7 @@ I'm a Data Science Graduate Student from Canada. Here's some info about me!
 
 ⚡ Work experience: <br>
 - **Machine Learning Engineer Co-op intern at Loblaw Digital** - ML and Natural Language based Product Recommendation Models. [Toronto. 8 months]
-- **Data Scientist (Full-Time) at EY** - MS Word Plugin for survey creation using Python and Data Mining. [India. 9 months]
-- **Data Analyst (Full-Time) at Nandini** - Intelligent PowerBI Dashboards for 6+ clients. [India. 7  months]
+- **Data Scientist (Full-Time) at EY** - MS Word Plugin for survey creation using Python and Data Mining. Intelligent PowerBI dashboards for clients. [India. 14 months]
 - **NLP Summer Research Intern at IIT-Kharagpur** - NLP E-Commerce Question Answer System using BERT.  [India. 4 months]
 <br>
 

@@ -1,5 +1,5 @@
 <h2 align=center>
-   Hi I am Abhishek Kathuria 👋
+   Abhishek Kathuria
 </h2>
 
 <p align=center> 
@@ -8,23 +8,9 @@
 </p>
 
 
-I'm a Data Science Graduate Student from Canada. Here's some info about me!
-
-⚡ Education: <br>
-- **Master of Engineering in Applied Data Science at University of Victoria** - [British Columbia, Canada. Sept 21-May 23]
-
-⚡ Work experience: <br>
-- **Machine Learning Engineer Co-op intern at Loblaw Digital** - ML and Natural Language based Product Recommendation Models. [Toronto. 8 months]
-- **Data Scientist (Full-Time) at EY** - MS Word Plugin for survey creation using Python and Data Mining. Intelligent PowerBI dashboards for clients. [India. 14 months]
-- **NLP Summer Research Intern at IIT-Kharagpur** - NLP E-Commerce Question Answer System using BERT.  [India. 4 months]
-<br>
-
-🌱 Interests:
-- Write technical blogs (Medium).
-- Travel.
+As an AI Consultant at a Google Cloud startup, I put on many hats during the day to get the job done. My role involves delivering ML and GenAI Proof of Concepts for Google clients, focusing on automating processes and enhancing business efficiency to foster growth. I have successfully helped over 7+ clients leverage GenAI and Google Cloud technologies to expand their businesses. 
 
 💬 Reach me by email or LinkedIn! abhishekkathuria40@gmail.com | www.linkedin.com/in/abhishek924 <br>
-📫 Visit my website: https://sites.google.com/view/abhishek-kathuria/home
 
 
 

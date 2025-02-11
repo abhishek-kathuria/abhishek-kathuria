@@ -8,7 +8,7 @@
 </p>
 
 
-As an AI Consultant at a Google Cloud startup, I put on many hats during the day to get the job done. My role involves delivering ML and GenAI Proof of Concepts for Google clients, focusing on automating processes and enhancing business efficiency to foster growth. I have successfully helped over 7+ clients leverage GenAI and Google Cloud technologies to expand their businesses. 
+As an AI Consultant at a Google Cloud startup, I put on many hats during the day to get the job done. My role involves delivering Machine Learning and GenAI solution for Google clients, focusing on automating processes and enhancing business efficiency to foster growth. I have successfully helped over 15+ clients leverage GenAI and Google Cloud technologies to expand their businesses. 
 
 💬 Reach me by email or LinkedIn! abhishekkathuria40@gmail.com | www.linkedin.com/in/abhishek924 <br>
 
